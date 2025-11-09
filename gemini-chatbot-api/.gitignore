@@ -1,0 +1,10 @@
+# Log dan file debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Abaikan folder dependensi
+/node_modules
+
+# Abaikan file environment
+.env
